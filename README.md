@@ -37,4 +37,4 @@
 
 ### 📫 Contact me
 - GitHub: [iamvu3006](https://github.com/iamvu3006)  
-- Email: *(bạn có thể điền email của bạn vào đây)*  
+- Email: lexuanbavu@gmail.com  
