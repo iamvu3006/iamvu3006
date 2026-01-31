@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Vũ Lê</h1>
-<h3 align="center">A student developer from Viet Nam 🇻🇳</h3>
+<h1 align="center">Hi 👋, I'm Le Xuan Ba Vu</h1>
+<h3 align="center">A Software Engineering Student from Vietnam 🇻🇳</h3>
 
 ---
 
-### 👨‍💻 About me
-- 🎓 Sinh viên năm 3 tại **Đại học Bách khoa - Đà Nẵng**
-- 💻 Quan tâm đến **Web Development, Python, AI/IoT**
-- 🏸 Ngoài giờ học thì mình thích **chơi cầu lông** và **đọc manga**
-- 🌱 Hiện tại đang học và phát triển dự án bằng **Django**
+### 👨‍💻 About Me
+- 🎓 Software Engineering student at **Danang University of Science and Technology**
+- 💻 Interested in **Web Development, Python, Java, AI & IoT**
+- 🏸 Outside of coding, I enjoy **playing badminton** and **reading manga**
+- 🌱 Currently learning and building projects with **Django** and **AI integration**
+- 🔭 Working on AI-powered applications and full-stack web development
 
 ---
 
-### 🚀 Languages & Tools
+### 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,java,cpp,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,cpp,html,css,js,git,github,vscode" />
 </p>
+
+**Languages:** Python, Java, C++, JavaScript, HTML/CSS  
+**Frameworks & Tools:** Django, Git, VS Code  
+**Currently Exploring:** AI/ML, IoT Integration
 
 ---
 
@@ -29,12 +34,18 @@
 ---
 
 ### 📌 Featured Projects
-- [QLSV](https://github.com/iamvu3006/QLSV) – Website quản lý sinh viên (Django)
-- [ShoeStore](https://github.com/iamvu3006/ShoeStore) – App quản lý shop giày dép (Java)
-- [Net-Manager](https://github.com/iamvu3006/Net-Manager) – Website quản lý mạng (HTML/JS)
+- [**PBL4_ai_server**](https://github.com/iamvu3006/PBL4_ai_server) – AI server implementation with Python backend
+- [**PBL3**](https://github.com/iamvu3006/PBL3) – E-commerce platform for second-hand electronics (Java)
+- [**QLSV**](https://github.com/iamvu3006/QLSV) – Student Management System with Django (Python)
+- [**ShoeStore**](https://github.com/iamvu3006/ShoeStore) – Shoe shop management application (Java)
+- [**Net-Manager**](https://github.com/iamvu3006/Net-Manager) – Network management web tool (HTML/JS)
 
 ---
 
-### 📫 Contact me
-- GitHub: [iamvu3006](https://github.com/iamvu3006)  
-- Email: lexuanbavu@gmail.com  
+### 📫 Let's Connect
+- 💼 GitHub: [@iamvu3006](https://github.com/iamvu3006)
+- ✉️ Email: lexuanbavu@gmail.com  
+
+<p align="center">
+  <i>💡 Open to collaboration on interesting projects!</i>
+</p>
